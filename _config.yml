@@ -1,9 +1,9 @@
-title:              Ishan's Blog
-email:              ishandhankhar@gmail.com
-description:        Things that came in my mind...
-author:             Ishan Dhankhar
-baseurl:            ""
-url:                "https://ishandhankhar.github.io"
+title:              Clean Blog
+email:              your-email@example.com
+description:        A Blog Theme by Start Bootstrap
+author:             Start Bootstrap
+baseurl:            "/startbootstrap-clean-blog-jekyll"
+url:                "https://startbootstrap.github.io"
 
 # Social Profiles
 twitter_username:   SBootstrap
